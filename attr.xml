@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StatusSeekBar">
+        <attr name="line_height" format="dimension"></attr>
+        <attr name="triangle_width" format="dimension"></attr>
+        <attr name="triangle_height" format="dimension"></attr>
+        <attr name="triangle_marginTop" format="dimension"></attr>
+        <attr name="text_padding" format="dimension"></attr>
+    </declare-styleable>
+</resources>
